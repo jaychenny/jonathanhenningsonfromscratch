@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 15px;
+    color: rgb(56, 56, 56);
+    background-color: rgb(255, 213, 159);
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(50, 212, 145);
+    text-decoration: none;
+}
+
+a:hover{text-decoration: underline;}
+a:visited{color: rgb(58, 58, 255);}
+
+.resumelistheading{
+    font-weight: bold;
+    font-style:normal;
+}
+
+li {
+    font-size: 15px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+.italic{font-style: italic;}
+
+.homebg{
+    background-image: url('../images/Mountain_Lake.jpg');
+    height: 100%;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.homepgfont{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: rgb(50, 212, 145);
+}
+
+.homepghead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(56, 56, 56);
+}
+
+.roundborder{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
